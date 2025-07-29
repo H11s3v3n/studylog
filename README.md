@@ -22,4 +22,10 @@
 - 个人学习笔记与总结
 
 ## 🗂️ 目录结构示意
-
+remand/
+├── notes/ # Markdown 格式的学习笔记
+├── playgrounds/ # 各类实验代码与小脚本
+├── projects/ # 小型项目或技术复现
+├── cheatsheets/ # 常用命令或语法速查表
+├── resources.md # 推荐阅读资料与链接
+└── README.md
