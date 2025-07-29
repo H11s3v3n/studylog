@@ -22,10 +22,14 @@
 - 个人学习笔记与总结
 
 ## 🗂️ 目录结构示意
+
+```
 remand/
-├── notes/ ── 学习笔记（按主题分类，Markdown 格式）
-├── playgrounds/ ── 实验性代码、小脚本测试区
-├── projects/ ── 小项目或技术复现练习
-├── cheatsheets/ ── 常用命令、语法速查表
-├── resources.md ── 推荐资料、书签与参考链接
-└── README.md ── 当前说明文档
+├── notes/         ── 学习笔记（按主题分类，Markdown 格式）
+├── playgrounds/   ── 实验性代码、小脚本测试区
+├── projects/      ── 小项目或技术复现练习
+├── cheatsheets/   ── 常用命令、语法速查表
+├── resources.md   ── 推荐资料、书签与参考链接
+└── README.md      ── 当前说明文档
+```
+
