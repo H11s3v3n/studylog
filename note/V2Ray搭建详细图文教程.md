@@ -30,8 +30,6 @@
 
 当你执行了上面的安装命令，并且没有错误提示的话，那么你就能看到类似下面的图片
 
-![image-20250806165829535](C:\Users\HuXiong\AppData\Roaming\Typora\typora-user-images\image-20250806165829535.png)
-
 
 
 linux命令，可以查看v2ray的进程是否存在
@@ -52,7 +50,7 @@ linux命令，可以查看v2ray的进程是否存在
 
 现在可以尝试一下输入 `v2ray` 回车，即可管理 V2Ray
 
-![image-20250806165948596](C:\Users\HuXiong\AppData\Roaming\Typora\typora-user-images\image-20250806165948596.png)
+
 
 提示，如果你不想执行任何功能，直接按 Enter 回车退出即可。
 
