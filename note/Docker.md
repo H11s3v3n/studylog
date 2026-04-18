@@ -119,7 +119,4 @@ docker-compose run --rm 服务名 bash
 
 
 
-
-
-
-
+ sudo systemctl daemon-reloadsudo systemctl restart dockersudo systemctl daemon-reexec
